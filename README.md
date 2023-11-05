@@ -1,2 +1,2 @@
-# ML-Zoomcamp-Module-6-California-Housing-Prices-Prediction-Project
-ML-Zoomcamp-Module-6-California-Housing-Prices-Prediction-Project
+# MLE-Zoomcamp-M6-California-Housing-Prices-Prediction-Regression-Analysis-Project
+MLE-Zoomcamp-M6-California-Housing-Prices-Prediction-Regression-Analysis-Project
